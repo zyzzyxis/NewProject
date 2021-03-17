@@ -2,7 +2,7 @@
 TLDR: need to clone with new name, replace db with unique name
 
 
-1. git clone git@github.com:zyzzyxis/StarterProject.git <NewProjectName>
+1. git clone git@github.com:zyzzyxis/Newprojectname.git <NewProjectName>
 2. cd <NewProjectName>
 3. $ bundle
 4. Rename the database to something unique, such as your new project name, in `database.yml`
